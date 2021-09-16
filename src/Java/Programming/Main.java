@@ -1,7 +1,5 @@
 package Java.Programming;
 
-import jdk.swing.interop.SwingInterOpUtils;
-
 import javax.swing.*;
 
 public class Main {
